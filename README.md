@@ -1,50 +1,50 @@
-\# 🛒 BigBasket Automation (Selenium + Java)
+# 🛒 BigBasket Automation (Selenium + Java)
 
 
 
-This project automates the login/signup and cart interaction flow on \[BigBasket](https://www.bigbasket.com) using Selenium WebDriver.
+This project automates the login/signup and cart interaction flow on [BigBasket](https://www.bigbasket.com) using Selenium WebDriver.
 
 
 
-\## Features
+## Features
 
-\- Phone number-based login with manual OTP entry
+- Phone number-based login with manual OTP entry
 
-\- Add item to cart and take screenshot
+- Add item to cart and take screenshot
 
-\- Uses Java, Selenium WebDriver, ChromeDriver
-
-
-
-\## Run Instructions
-
-1\. Clone the repo
-
-2\. Run `mvn clean test` or execute `Bigbasket.java` manually
-
-3\. Enter OTP manually when prompted
-
-4\. Screenshot is saved in `docs/` or `screenshots/` folder
+- Uses Java, Selenium WebDriver, ChromeDriver
 
 
 
-\## Tools Used
+## Run Instructions
 
-\- Java 17
+1. Clone the repo
 
-\- Selenium WebDriver
+2. Run `mvn clean test` or execute `Bigbasket.java` manually
 
-\- Maven
+3. Enter OTP manually when prompted
 
-\- ChromeDriver
+4. Screenshot is saved in `docs/` or `screenshots/` folder
 
 
 
-\## Screenshots
+## Tools Used
 
-!\[Cart Screenshot](screenshots/cart\_screenshot.png)
+- Java 17
 
-!\[Signup Screenshot](screenshots/login\_signup\_step.png)
+- Selenium WebDriver
+
+- Maven
+
+- ChromeDriver
+
+
+
+## Screenshots
+
+![Cart Screenshot](screenshots/cart\_screenshot.png)
+
+![Signup Screenshot](screenshots/login\_signup\_step.png)
 
 
 
